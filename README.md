@@ -1,4 +1,4 @@
-# sdf
+This is a duplicate of https://github.com/fogleman/sdf. Just in case the original repo is deleted or made private someday
 
 Generate 3D meshes based on SDFs (signed distance functions) with a
 dirt simple Python API.
